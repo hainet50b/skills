@@ -12,7 +12,7 @@ directory of instructions an AI coding agent loads on demand, following the
 |-------|-------------|
 | [git-identity-confirm](git-identity-confirm/) | Ask the user which Git identity a newly created or cloned repository should use before its first commit. |
 | [gh-markdown-preview-run](gh-markdown-preview-run/) | Run [gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview), the GitHub CLI extension that renders Markdown as GitHub does, from start to shutdown. |
-| [plain-language](plain-language/) | Apply plain-language principles when writing, editing, reviewing, or translating natural-language documents and AI responses. |
+| [plain-language](plain-language/) | Apply plain-language principles to any prose an agent composes, edits, reviews, or translates, including its own chat replies. |
 
 ## Installation
 
